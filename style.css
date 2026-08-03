@@ -31,3 +31,15 @@ p {
     color: darkblue;
     font-size: 42px;
 }
+.container{
+    display:flex;
+    /* padding: auto;
+    margin: 20px; */
+    justify-content: center;
+    align-items:center;
+    background-color:gray ;
+}
+div{
+    padding: 20px;
+    margin: 20px;
+}
